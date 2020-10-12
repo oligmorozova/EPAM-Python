@@ -1,1 +1,1 @@
-# EPAM-Python
+# Python Online course home tasks
